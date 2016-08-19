@@ -1,2 +1,2 @@
-# 1rd
+# 1st
 c homework
